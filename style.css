@@ -15,6 +15,7 @@ body{
 	position: fixed;
 	top: 0; right: 0; bottom: 0; left: 0;
 	overflow: hidden;
+	
 }
 
 #trailer  #video {
@@ -26,6 +27,8 @@ body{
 	min-height: 100%;
 	width: auto; height: auto; 
 }
+#video{min-width: 100%; 
+	min-height: 100%;}
 .MSHP{
 	display: block;
 	position: fixed;
